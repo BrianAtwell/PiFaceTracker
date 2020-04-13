@@ -11,13 +11,15 @@ I wanted to learn more about OpenCV and develop my own PID controller. I wanted 
 
 ## Hardware
 Prices as of April, 13, 2020
-Raspberry Pi 2 - $40
-Mirco SD card - $12
-16-Channel PWM / Servo HAT for Raspberry Pi - $17.50 - https://www.adafruit.com/product/2327
-M2.5 Stand offs for HAT 2x - $1.50 - https://www.adafruit.com/product/2336
-Raspberry Pi Camera - $29.95 - https://www.adafruit.com/product/3099
-Raspberry Pi Camera extra long cable - $3.95 - https://www.adafruit.com/product/2143
-Pan/Tilt Camera Mount - $18.95 - https://www.adafruit.com/product/1967
-Xbox 360 Controller
+Item | Price | Link
+------------- | --------- | --------
+Raspberry Pi 2 | $40 | 
+Mirco SD card | $12 | 
+16-Channel PWM / Servo HAT for Raspberry Pi | $17.50 | https://www.adafruit.com/product/2327
+M2.5 Stand offs for HAT 2x | $1.50 | https://www.adafruit.com/product/2336
+Raspberry Pi Camera | $29.95 | https://www.adafruit.com/product/3099
+Raspberry Pi Camera extra long cable | $3.95 | https://www.adafruit.com/product/2143
+Pan/Tilt Camera Mount | $18.95 | https://www.adafruit.com/product/1967
+Xbox 360 Controller | | 
 
 Project Cost - $123.85
