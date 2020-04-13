@@ -23,3 +23,14 @@ Pan/Tilt Camera Mount | $18.95 | https://www.adafruit.com/product/1967
 Xbox 360 Controller | | 
 
 Project Cost - $123.85
+
+
+## Third Party Libraries
+* 16-Channel PWM / Servo HAT Download Adafruit Library https://learn.adafruit.com/adafruit-16-channel-pwm-servo-hat-for-raspberry-pi
+* OpenCV for Raspberry PI (I don't remeber how I set it up) but here is a https://www.learnopencv.com/install-opencv-4-on-raspberry-pi/
+* Xbox360 Driver for python https://github.com/linusg/xbox360controller
+* PiCamera Python Library
+  * Enable Pi camera through raspi-conf command and then run the following two commands
+  * sudo apt-get update
+  * sudo apt-get install python-picamera python3-picamera
+* Also looked into this Xbox360 driver https://github.com/FRC4564/Xbox
